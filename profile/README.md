@@ -1,4 +1,4 @@
 # Menu Vaucanson
 Welcome to the Menu Vaucanson Github organization.
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=MenuVaucanson&repo=Mobile)](https://github.com/MenuVaucanson/Mobile)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Menu-Vaucanson&repo=Mobile)](https://github.com/Menu-Vaucanson/Mobile)
